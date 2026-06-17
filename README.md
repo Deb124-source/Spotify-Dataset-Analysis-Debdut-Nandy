@@ -1,4 +1,4 @@
-# 🎵 Spotify Music Recommendation System
+# 🎵 Smart Music Recommendation System
 
 An AI-powered **Spotify Music Recommendation System** that recommends similar songs based on audio features, artist information, and genre similarity.
 
