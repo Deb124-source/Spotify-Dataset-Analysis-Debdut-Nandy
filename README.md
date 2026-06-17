@@ -1,8 +1,8 @@
-Here is a professional **README.md** for your deployed Spotify Music Recommendation Model project.
-
 # 🎵 Spotify Music Recommendation System
 
 An AI-powered **Spotify Music Recommendation System** that recommends similar songs based on audio features, artist information, and genre similarity.
+
+---
 
 🔗 **Live Demo:**  
 https://spotify-music-recommendation-model.streamlit.app/
